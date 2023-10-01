@@ -65,8 +65,8 @@ ul {
 /** --------------------HEADER------------------- */
 
 .header {
-    /* padding-top: 24px;
-    padding-bottom: 24px; */
+    padding-top: 24px;
+    padding-bottom: 24px;
     border-bottom: 1px solid #E7E9FC;
 }
 
