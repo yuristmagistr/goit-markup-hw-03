@@ -79,8 +79,6 @@ ul {
     display: flex;
     align-items: center;
     flex-grow: 1;
-        padding-top: 24px;
-            padding-bottom: 24px;
 }
 
 .header-logo {
@@ -103,7 +101,10 @@ ul {
     gap: 40px;
 }
 
-.header-menu-item {}
+.header-menu-item {
+            padding-top: 24px;
+                padding-bottom: 24px;
+}
 
 .header-menu-link {
     color: #2E2F42;
@@ -128,6 +129,8 @@ ul {
 }
 
 .address-menu-item {
+            padding-top: 24px;
+                padding-bottom: 24px;
 }
 
 .address-menu-link {
