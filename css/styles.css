@@ -65,9 +65,8 @@ ul {
 /** --------------------HEADER------------------- */
 
 .header {
-    padding: 24px 0;
-    /* padding-top: 24px;
-    padding-bottom: 24px; */
+    padding-top: 24px;
+    padding-bottom: 24px;
     border-bottom: 1px solid #E7E9FC;
 }
 
@@ -151,8 +150,6 @@ ul {
     background-color: #2E2F42;
     /* margin-bottom: 120px; */
     padding: 188px 0;
-    /* padding-top: 188px;
-    padding-bottom: 188px; */
 }
 
 .solutions-title {
@@ -173,7 +170,7 @@ ul {
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.04rem;
-    cursor: pointer;
+    /* cursor: pointer;
     background-color: #4D5AE5;
     padding: 16px 32px;
     border-radius: 4px;
@@ -181,10 +178,19 @@ ul {
     display: block;
     margin: 0 auto;
     min-width: 169px;
-    height: 56px;
+    height: 56px; */
 }
 
 .button-order-service {
+        cursor: pointer;
+        background-color: #4D5AE5;
+        padding: 16px 32px;
+        border-radius: 4px;
+        border: none;
+        display: block;
+        margin: 0 auto;
+        min-width: 169px;
+        height: 56px;
     /* display: flex;
     justify-content: center; */
     margin-top: 48px;
