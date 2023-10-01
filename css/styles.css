@@ -65,8 +65,8 @@ ul {
 /** --------------------HEADER------------------- */
 
 .header {
-    padding-top: 24px;
-    padding-bottom: 24px;
+    /* padding-top: 24px;
+    padding-bottom: 24px; */
     border-bottom: 1px solid #E7E9FC;
 }
 
@@ -79,7 +79,6 @@ ul {
     display: flex;
     align-items: center;
     flex-grow: 1;
-
 }
 
 .header-logo {
@@ -100,9 +99,14 @@ ul {
 .header-menu-list {
     display: flex;
     gap: 40px;
+    /* padding-top: 24px;
+        padding-bottom: 24px; */
 }
 
-.header-menu-item {}
+.header-menu-item {
+    padding-top: 24px;
+        padding-bottom: 24px;
+}
 
 .header-menu-link {
     color: #2E2F42;
@@ -127,6 +131,8 @@ ul {
 }
 
 .address-menu-item {
+        padding-top: 24px;
+            padding-bottom: 24px;
 }
 
 .address-menu-link {
