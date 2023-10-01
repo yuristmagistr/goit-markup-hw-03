@@ -90,6 +90,8 @@ ul {
     letter-spacing: 0.03375rem;
     text-transform: uppercase;
     margin-right: 76px;
+            padding-top: 24px;
+                padding-bottom: 24px;
 }
 
 .header-logo-text {
